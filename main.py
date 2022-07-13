@@ -3,7 +3,6 @@ import mediapipe as mp
 import pygame
 import numpy as np
 import math
-import serial
 import time
 
 mp_drawing = mp.solutions.drawing_utils
