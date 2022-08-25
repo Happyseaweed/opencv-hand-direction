@@ -1,5 +1,9 @@
 # opencv-hand-direction
 
+
+!!!This has been integrated within my handtracking module!!!
+
+---
 In order for program to work optimally, palm should be facing the camera. Computing power of machine greatly affects accuracy.
 
 A simple (not yet super accurate) python program that detects which direction the hands move in after pinching/grabbing. Can be used for hands-free control.
